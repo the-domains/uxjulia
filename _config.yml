@@ -1,0 +1,14 @@
+layout_spectrum: 0.7168459
+typography_spectrum: 0.7455197
+color:
+  saturation: 0.4731499
+  lightness: 0.6191953
+  brandStrength: 0.6326165
+  brandColors:
+    - '#FFFFFF'
+    - '#47637B'
+    - '#97A8BA'
+    - '#657E9A'
+    - '#CBCCCF'
+  rhythmicContrast: 0.8252187
+name: uxjulia
